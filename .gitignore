@@ -1,0 +1,8 @@
+#envirament varibles
+.env
+
+#node dependecies 
+node_modules
+
+#build folder
+dist
